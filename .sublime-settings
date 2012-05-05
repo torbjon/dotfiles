@@ -1,0 +1,40 @@
+{
+  "auto_complete": false,
+  "color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+  "draw_indent_guides": false,
+  "file_exclude_patterns":
+  [
+    ".gitkeep",
+    ".DS_Store"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".svn",
+    ".git",
+    ".hg",
+    "CVS",
+    ".bundle",
+    ".sass-cache"
+  ],
+  "font_size": 12.0,
+  "gutter": true,
+  "ignored_packages": ["Vintage"],
+  // "overlay_scroll_bars": "enabled",
+  "remember_open_files": false,
+  // "scroll_past_end": false,
+  // "scroll_speed": 0,
+  "show_tab_close_buttons": false,
+  "tab_size": 2,
+  "theme": "Soda Dark.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "tree_animation_enabled": true,
+  "use_simple_full_screen": true,
+  "word_wrap": true,
+  "drawWhiteSpace": true,
+  "matchBracketsAngle": true,
+  "matchBracketsBraces": true,
+  "matchBracketsSquare": true,
+  "trimTrailingWhiteSpaceOnSave": true,
+  "highlight_modified_tabs": true
+}
+ 
