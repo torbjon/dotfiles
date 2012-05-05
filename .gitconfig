@@ -1,0 +1,6 @@
+[user]
+        name = Maksim Berjoza
+        email = torbjon@gmail.com
+[core]
+        excludesfile = /Users/torbjon/.gitignore_global
+        quotepath = false
