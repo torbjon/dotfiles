@@ -1,6 +1,21 @@
 [user]
-        name = Maksim Berjoza
-        email = torbjon@gmail.com
+  name = Maksim Berjoza
+  email = torbjon@gmail.com
 [core]
-        excludesfile = /Users/torbjon/.gitignore_global
-        quotepath = false
+  excludesfile = /Users/torbjon/.gitignore_global
+  quotepath = false
+
+[color]
+  ui = true
+[push]
+  default = tracking
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
+  up = push
+  dw = pull --rebase
+  cp = cherry-pick
